@@ -1,2 +1,2 @@
 This file is just for testing.
-Test "git diff" command. 
+
